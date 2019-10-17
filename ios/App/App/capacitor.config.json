@@ -1,0 +1,7 @@
+{
+  "appId": "com.libroionic.missitios",
+  "appName": "misSitios",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
